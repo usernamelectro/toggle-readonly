@@ -1,10 +1,10 @@
 [
     {
-        "command": "set_readonly",
-        "caption": "Set File Readonly"
+        "caption": "Set Readonly",
+        "command": "set_readonly"
     },
     {
-        "command": "set_writable",
-        "caption": "Set File Writable"
+        "caption": "Set Writable",
+        "command": "set_writable"
     }
 ]
