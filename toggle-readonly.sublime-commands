@@ -1,10 +1,10 @@
 [
     {
-        "caption": "Set Readonly",
+        "caption": "Read-only: Set file readonly",
         "command": "set_readonly"
     },
     {
-        "caption": "Set Writable",
+        "caption": "Read-only: Set file writable",
         "command": "set_writable"
     }
 ]
